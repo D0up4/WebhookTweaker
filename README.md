@@ -37,7 +37,7 @@ Insert Avatar Image Path (or leave blank): ./avatar.png
 ## 🛠️ Usage
 ```bash
 
-- python webhook_tweaker.py
+- python WebhookTweaker.py
 
 ```
 You'll be prompted to enter:
